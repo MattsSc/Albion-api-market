@@ -1,27 +1,3 @@
-1606: T4_RUNE                                                          : Adept's Rune
-1607: T4_SOUL                                                          : Adept's Soul
-1608: T4_RELIC                                                         : Adept's Relic
-1609: T4_SHARD_AVALONIAN                                               : Adept's Avalonian Shard
-1611: T5_ESSENCE                                                       : Expert's Faded Essence
-1612: T5_RUNE                                                          : Expert's Rune
-1613: T5_SOUL                                                          : Expert's Soul
-1614: T5_RELIC                                                         : Expert's Relic
-1615: T5_SHARD_AVALONIAN                                               : Expert's Avalonian Shard
-1617: T6_ESSENCE                                                       : Master's Faded Essence
-1618: T6_RUNE                                                          : Master's Rune
-1619: T6_SOUL                                                          : Master's Soul
-1620: T6_RELIC                                                         : Master's Relic
-1621: T6_SHARD_AVALONIAN                                               : Master's Avalonian Shard
-1623: T7_ESSENCE                                                       : Grandmaster's Faded Essence
-1624: T7_RUNE                                                          : Grandmaster's Rune
-1625: T7_SOUL                                                          : Grandmaster's Soul
-1626: T7_RELIC                                                         : Grandmaster's Relic
-1627: T7_SHARD_AVALONIAN                                               : Grandmaster's Avalonian Shard
-1629: T8_ESSENCE                                                       : Elder's Faded Essence
-1630: T8_RUNE                                                          : Elder's Rune
-1631: T8_SOUL                                                          : Elder's Soul
-1632: T8_RELIC                                                         : Elder's Relic
-1633: T8_SHARD_AVALONIAN                                               : Elder's Avalonian Shard
 1642: T1_OFF_SHIELD                                                    : Beginner's Shield
 1643: T2_OFF_SHIELD                                                    : Novice's Shield
 1644: T3_OFF_SHIELD                                                    : Journeyman's Shield
