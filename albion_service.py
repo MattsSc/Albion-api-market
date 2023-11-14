@@ -34,7 +34,7 @@ class AlbionService:
             if priceInfo['item_id'] == item_name:
                 if priceInfo['city'] == "Caerleon":
                     itemPriceEvaluated.caerleon = priceInfo['sell_price_min']
-                elif itemPriceEvaluated.bestPrice == 0 or itemPriceEvaluated.bestPrice > priceInfo['sell_price_min']:
+                elif itemPriceEvaluated.bestPrice == 0 or (itemPriceEvaluated.bestPrice > priceInfo['sell_price_min'] and priceInfo['sell_price_min'] != 0):
                     itemPriceEvaluated.bestPrice = priceInfo['sell_price_min']
                     itemPriceEvaluated.city = priceInfo['city']
 
